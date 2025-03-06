@@ -1,0 +1,70 @@
+{
+  "configTitle": {
+    "message": "过滤器设置",
+    "description": "设置页面标题"
+  },
+  "validationError": {
+    "message": "请输入域名和过滤规则",
+    "description": "验证错误信息"
+  },
+  "saveSuccess": {
+    "message": "规则保存成功",
+    "description": "保存成功提示"
+  },
+  "extName": {
+    "message": "复制所有网页链接",
+    "description": "扩展的名称"
+  },
+  "extDescription": {
+    "message": "从网页中复制所有过滤后的链接",
+    "description": "扩展的描述"
+  },
+  "addRule": {
+    "message": "添加规则",
+    "description": "添加新规则按钮文本"
+  },
+  "domainPlaceholder": {
+    "message": "输入域名（例如：example.com）",
+    "description": "域名输入框占位符"
+  },
+  "filterRulePlaceholder": {
+    "message": "输入过滤规则（例如：/article/）",
+    "description": "过滤规则输入框占位符"
+  },
+  "deleteRule": {
+    "message": "删除",
+    "description": "删除规则按钮文本"
+  },
+  "noLinksFound": {
+    "message": "未找到链接！",
+    "description": "未找到链接时的提示"
+  },
+  "copySuccess": {
+    "message": "成功复制 $count$ 个链接到剪贴板！",
+    "description": "复制成功时的提示",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "copyError": {
+    "message": "复制失败：$error$",
+    "description": "复制失败时的提示",
+    "placeholders": {
+      "error": {
+        "content": "$1",
+        "example": "权限被拒绝"
+      }
+    }
+  },
+  "copyLinks": {
+    "message": "复制所有链接",
+    "description": "右键菜单项文本"
+  },
+  "copySelectedLink": {
+    "message": "复制选中的链接",
+    "description": "链接右键菜单项文本"
+  }
+}

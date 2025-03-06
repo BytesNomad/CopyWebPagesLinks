@@ -1,0 +1,12 @@
+The following permissions are required for the Chrome extension to function properly:
+
+1. contextMenus: Allows the extension to create context menu items for copying page links and selected links.
+2. activeTab: Enables the extension to interact with the currently active tab to access and copy links.
+3. storage: Used to store user-defined filter rules and preferences for link filtering.
+4. clipboardWrite: Permits the extension to copy filtered links to the user's clipboard.
+5. scripting: Allows the extension to execute scripts in web pages to extract and process links.
+
+Host Permissions:
+1. <all_urls>: The extension needs access to all websites to scan web page content and extract links. This is essential for the core functionality of copying links from any webpage.
+2. Privacy Protection: The extension only accesses the necessary information (links) and does not collect or store any personal data. All processing is done locally in the browser.
+3. Security: The extension uses Chrome's sandboxing and permission system to ensure safe execution of scripts and prevent unauthorized access to sensitive data.

@@ -1,0 +1,58 @@
+{
+  "extName": {
+    "message": "Copy All Web Links",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Copy all filtered links from web pages",
+    "description": "Extension description"
+  },
+  "addRule": {
+    "message": "Add Rule",
+    "description": "Add new rule button text"
+  },
+  "domainPlaceholder": {
+    "message": "Enter domain (e.g., example.com)",
+    "description": "Domain input placeholder"
+  },
+  "filterRulePlaceholder": {
+    "message": "Enter filter rule (e.g., /article/)",
+    "description": "Filter rule input placeholder"
+  },
+  "deleteRule": {
+    "message": "Delete",
+    "description": "Delete rule button text"
+  },
+  "noLinksFound": {
+    "message": "No links found!",
+    "description": "Message shown when no links are found"
+  },
+  "copySuccess": {
+    "message": "Successfully copied $count$ links to clipboard!",
+    "description": "Message shown when copy is successful",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "copyError": {
+    "message": "Copy failed: $error$",
+    "description": "Message shown when copy fails",
+    "placeholders": {
+      "error": {
+        "content": "$1",
+        "example": "Permission denied"
+      }
+    }
+  },
+  "copyLinks": {
+    "message": "Copy All Links",
+    "description": "Right-click menu text"
+  },
+  "copySelectedLink": {
+    "message": "Copy Selected Link",
+    "description": "Link right-click menu text"
+  }
+}

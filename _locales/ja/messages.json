@@ -1,0 +1,70 @@
+{
+  "configTitle": {
+    "message": "フィルター設定",
+    "description": "設定画面のタイトル"
+  },
+  "validationError": {
+    "message": "ドメインとフィルターを入力してください",
+    "description": "バリデーションエラーメッセージ"
+  },
+  "saveSuccess": {
+    "message": "ルールが保存されました",
+    "description": "保存成功メッセージ"
+  },
+  "extName": {
+    "message": "全てのウェブリンクをコピー",
+    "description": "拡張機能の名前"
+  },
+  "extDescription": {
+    "message": "ウェブページから全てのフィルタリングされたリンクをコピー",
+    "description": "拡張機能の説明"
+  },
+  "addRule": {
+    "message": "ルールを追加",
+    "description": "新規ルール追加ボタンのテキスト"
+  },
+  "domainPlaceholder": {
+    "message": "ドメインを入力（例：example.com）",
+    "description": "ドメイン入力欄のプレースホルダー"
+  },
+  "filterRulePlaceholder": {
+    "message": "フィルタールールを入力（例：/article/）",
+    "description": "フィルタールール入力欄のプレースホルダー"
+  },
+  "deleteRule": {
+    "message": "削除",
+    "description": "ルール削除ボタンのテキスト"
+  },
+  "noLinksFound": {
+    "message": "リンクが見つかりません！",
+    "description": "リンクが見つからない場合のメッセージ"
+  },
+  "copySuccess": {
+    "message": "$count$個のリンクをクリップボードにコピーしました！",
+    "description": "コピー成功時のメッセージ",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "copyError": {
+    "message": "コピーに失敗しました：$error$",
+    "description": "コピー失敗時のメッセージ",
+    "placeholders": {
+      "error": {
+        "content": "$1",
+        "example": "権限が拒否されました"
+      }
+    }
+  },
+  "copyLinks": {
+    "message": "全てのリンクをコピー",
+    "description": "右クリックメニューのテキスト"
+  },
+  "copySelectedLink": {
+    "message": "選択したリンクをコピー",
+    "description": "リンク右クリックメニューのテキスト"
+  }
+}
