@@ -26,7 +26,7 @@ This project was developed in just 4 hours with the assistance of AI, despite ha
 
 ### Website
 
-Visit our project website: [https://github.com/CopyWebPagesLinks/](https://github.com/CopyWebPagesLinks/)
+Visit our project website: [https://bytesnomad.github.io/CopyWebPagesLinks/](https://bytesnomad.github.io/CopyWebPagesLinks/)
 
 ## 中文
 
@@ -52,4 +52,4 @@ Copy Web Links 是一个强大的 Chrome 扩展，允许您高效地复制和过
 
 ### 网站
 
-访问我们的项目网站：[https://github.com/CopyWebPagesLinks/](https://github.com/CopyWebPagesLinks/)
+访问我们的项目网站：[https://bytesnomad.github.io/CopyWebPagesLinks/](https://bytesnomad.github.io/CopyWebPagesLinks/)
